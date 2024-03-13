@@ -1,4 +1,4 @@
-# Nom du Projet
+# Application
 
 Un projet de création d'application tkinter avec une barre de navigation latérale.
 
@@ -15,7 +15,7 @@ Ce projet est une application tkinter qui démontre la création d'une interface
 ## Captures d'écran
 
 <video width="640" height="360" controls>
-  <source src="pyapp" type="video/mp4">.
+  <source src="pyapp.mp4" type="video/mp4">.
 </video>
 
 ## Installation
