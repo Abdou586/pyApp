@@ -10,8 +10,7 @@ Ce projet est une application tkinter qui démontre la création d'une interface
 
 - Barre de navigation latérale animée
 - Options de navigation
-- Changement de thème
-
+  
 ## Captures d'écran
 
 ![Texte alternatif](./capt1.png)
@@ -19,12 +18,7 @@ Ce projet est une application tkinter qui démontre la création d'une interface
 
 ## Installation
 
-1. Clonez le dépôt GitHub :
-    ```bash
-    git clone https://github.com/votre_utilisateur/votre_depot.git
-    ```
-
-2. Installez les dépendances :
+- Installez les dépendances :
     ```bash
     pip install tk
     pip install Pillow
