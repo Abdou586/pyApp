@@ -14,18 +14,11 @@ Ce projet est une application tkinter qui démontre la création d'une interface
 
 ## Captures d'écran
 
-<video width="640" height="360" controls>
-  <source src="./pyapp.mp4" type="video/mp4">.
-</video>
+
 
 ## Installation
 
-1. Clonez le dépôt GitHub :
-    ```bash
-    git clone https://github.com/votre_utilisateur/votre_depot.git
-    ```
-
-2. Installez les dépendances :
+- Installez les dépendances :
     ```bash
     pip install tk
     pip install Pillow
